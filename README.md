@@ -1,16 +1,28 @@
-## Hi there 👋
+# Hi, I'm Bhavesh Lambar 👋
 
-<!--
-**BhaveshLambar/BhaveshLambar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 BSc-IT Graduate (2025)  
+📊 Aspiring Data Analyst | Data Science Learner  
 
-Here are some ideas to get you started:
+## 🔍 About Me
+- Currently training in Data Science & Analytics
+- Learning Python, SQL, Excel, Power BI, and Statistics
+- Passionate about working with data to find insights
+- Actively building real-world data projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Skills I'm Learning
+- Python (Pandas, NumPy)
+- SQL
+- Excel (Pivot Tables, Dashboards)
+- Power BI
+- Data Cleaning & Visualization
+- Basic Statistics
+
+## 📂 Projects
+- Sales Data Analysis (Python)
+- SQL Customer Insights
+- Excel Dashboard Project  
+(*More coming soon...*)
+
+## 📫 Connect With Me
+- LinkedIn: (Coming Soon)
+

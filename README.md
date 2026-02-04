@@ -1,7 +1,7 @@
 # Hi, I'm 👋 Bhavesh Lambar
 
 🎓 BSc IT Graduate (2025)  
-📊 Aspiring Data Analyst | Business Analytics | Data Visualization  
+📊 Aspiring Data Analyst | Business Analytics | Data Science Enthusiast  
 
 I am an aspiring Data Analyst with hands-on experience in analyzing real-world datasets to extract meaningful business insights. I enjoy working across the analytics lifecycle — from data cleaning and exploration to building dashboards and presenting insights that support data-driven decision-making.
 
